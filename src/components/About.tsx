@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import chef from "@/assets/about-chef.jpg";
+import chef from "@/assets/about-chef.avif";
 import interior from "@/assets/interior.jpg";
 import spices from "@/assets/gallery-spices.jpg";
 
